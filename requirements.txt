@@ -1,0 +1,6 @@
+scikit-learn==1.9.1
+pandas==3.0.5
+joblib==1.6.0
+streamlit==1.65.0
+fastapi==0.143.0
+uvicorn==0.53.0
